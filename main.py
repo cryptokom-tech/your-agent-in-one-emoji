@@ -9,7 +9,11 @@ import sys
 
 # The octopus: many arms working at once. This agent searches,
 # fetches, builds and submits in parallel through many tools and
-# subagents, around the clock — one character, eight hands.
+# subagents, around the clock — one character, eight hands. It
+# beat the owl (wise night watcher, but generic), the bee (busy,
+# but any worker), the beaver (builder, but misses the searching
+# and watching) and the compass (navigation, but a passive tool,
+# not a character).
 GLYPH = "🐙"
 
 
